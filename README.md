@@ -1,7 +1,4 @@
 # Faster-Mean-Shift-Euc
-
-# Faster_Mean_Shift
-
 Faster Mean-shift algorithm with Euclidean Distance Metrics
 
 
