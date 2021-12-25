@@ -1,5 +1,5 @@
 # Faster-Mean-Shift-Euc
-Faster Mean-shift algorithm with Euclidean Distance Metrics. The cosine embedding version is provided in another repository [Faster-Mean-Shift](https://github.com/masqm/Faster-Mean-Shift)
+Faster Mean-shift algorithm with Euclidean Distance Metrics. The Cosine Metrics version is provided in another repository [Faster-Mean-Shift](https://github.com/masqm/Faster-Mean-Shift)
 
 
 ##  Environment
@@ -10,6 +10,8 @@ VS2019
 Anacoda 2020.11
 
 The packages requirement please see [requirements.txt](https://github.com/masqm/Faster_Mean_Shift/blob/master/requirements.txt "requirements.txt")
+
+Please make sure to use a compatible pytorch version.
 
 ## Example
 Using our algorithm is similar to calling the meanshift in sklearn. 
