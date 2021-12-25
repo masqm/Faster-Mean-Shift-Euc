@@ -9,7 +9,7 @@ VS2019
 
 Anacoda 2020.11
 
-The packages requirement please see [requirements.txt](https://github.com/masqm/Faster_Mean_Shift/blob/master/requirements.txt "requirements.txt")
+The packages requirement please see [requirements.txt](https://github.com/masqm/Faster-Mean-Shift-Euc/blob/main/requirements.txt)
 
 Please make sure to use a compatible pytorch version.
 
