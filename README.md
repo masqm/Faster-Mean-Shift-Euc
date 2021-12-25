@@ -1,5 +1,5 @@
 # Faster-Mean-Shift-Euc
-Faster Mean-shift algorithm with Euclidean Distance Metrics. The cosine embedding version is provided in another repository [Faster-Mean-Shift]https://github.com/masqm/Faster-Mean-Shift
+Faster Mean-shift algorithm with Euclidean Distance Metrics. The cosine embedding version is provided in another repository [Faster-Mean-Shift](https://github.com/masqm/Faster-Mean-Shift)
 
 
 ##  Environment
