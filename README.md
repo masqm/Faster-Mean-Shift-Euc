@@ -11,7 +11,7 @@ Anacoda 2020.11
 
 The packages requirement please see [requirements.txt](https://github.com/masqm/Faster-Mean-Shift-Euc/blob/main/requirements.txt)
 
-Please make sure to use a compatible pytorch version.
+Please make sure to use a compatible pytorch-gpu version.
 
 ## Example
 Using our algorithm is similar to calling the meanshift in sklearn. 
