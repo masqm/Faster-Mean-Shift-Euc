@@ -1,5 +1,5 @@
 # Faster-Mean-Shift-Euc
-Faster Mean-shift algorithm with Euclidean Distance Metrics. The algorithm is based on GPU acceleration, which can achieve satisfactory speedup with optimized GPU memory consumption. Here is a brief introduction to how to run it. And the details of our algorithm, please refer to our [paper](https://doi.org/10.1016/j.media.2021.102048).
+Faster Mean-shift algorithm with Euclidean Distance Metrics. The algorithm is based on GPU acceleration, which can achieve satisfactory speedup with optimized GPU memory consumption. Here is a brief introduction to how to run it. And the details of our algorithm, please refer to our [paper1](https://arxiv.org/abs/2112.13891)[paper2](https://doi.org/10.1016/j.media.2021.102048).
 
 The Cosine Metrics version is provided in another repository [Faster-Mean-Shift](https://github.com/masqm/Faster-Mean-Shift).
 
@@ -36,4 +36,4 @@ An example of how to run the algorithm is given in [main.py](https://github.com/
     ms.fit(X)
     labels  =  ms.labels_
     
-If you encounter any problem or find a bug during using, you are very welcome to contact me by (Mengyang.Zhao.TH@dartmouth.edu). If you use this code for your research, please cite our [paper](https://doi.org/10.1016/j.media.2021.102048). Thanks!
+If you encounter any problem or find a bug during using, you are very welcome to contact me by (Mengyang.Zhao.TH@dartmouth.edu). If you use this code for your research, please cite our [paper1](https://arxiv.org/abs/2112.13891)[paper2](https://doi.org/10.1016/j.media.2021.102048). Thanks!
