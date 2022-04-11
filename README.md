@@ -36,4 +36,6 @@ An example of how to run the algorithm is given in [main.py](https://github.com/
     ms.fit(X)
     labels  =  ms.labels_
     
+Here is a helpful Q&A for image segmentation and bandwidth setting: https://github.com/masqm/Faster-Mean-Shift-Euc/issues/1
+    
 If you encounter any problem or find a bug during using, you are very welcome to contact me by (Mengyang.Zhao.TH@dartmouth.edu). If you use this code for your research, please cite our [paper1](https://arxiv.org/abs/2112.13891), [paper2](https://doi.org/10.1016/j.media.2021.102048). Thanks!
